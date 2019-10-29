@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277217451545",
+    "firebase_url": "https://chaambpchat.firebaseio.com",
+    "project_id": "chaambpchat",
+    "storage_bucket": "chaambpchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277217451545:android:533b6f887f47da93d85488",
+        "android_client_info": {
+          "package_name": "e.arunv.chaambpchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277217451545-eh9ko3rcfl01i6a9vgupvae804o6jtn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.arunv.chaambpchat",
+            "certificate_hash": "ecb13e363e9f0db66cf82212217224eada27fcd1"
+          }
+        },
+        {
+          "client_id": "277217451545-aq4h5k1c50h3mm0j9d6g0a7a0dl5ttme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnY3IR9nUEefuMs5U_CB9tdlzG1HjTB60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277217451545-aq4h5k1c50h3mm0j9d6g0a7a0dl5ttme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
